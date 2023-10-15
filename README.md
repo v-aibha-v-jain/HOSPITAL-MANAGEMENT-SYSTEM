@@ -1,5 +1,5 @@
 # HOSPITAL-MANAGEMENT-SYSTEM
-This an project on Hospital management system which helps doctors and citizens to ease there work, like easy appointment management, citizens medical history in a single place, availability of the doctors, option for medicine purchase from the clinic, patients can save their medical history like surgeries and visits. Easy access, Made with bubble 
+This an project on Hospital management system which helps doctors and citizens to ease there work, like easy appointment management, citizens medical history in a single place, availability of the doctors, option for medicine purchase from the clinic, patients can save their medical history like surgeries and visits. Easy access, Made with bubble. \n
 So here is the link for the app made with bubble --> https://rang-tarang.bubbleapps.io/version-test?debug_mode=true
 This the first time I and my team members --> Utkarh Kumar Pandit and Irfan Ahmed
 Utkarsh Kumar Pandit --> https://github.com/Spyseedragon
